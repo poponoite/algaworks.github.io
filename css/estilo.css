@@ -1,0 +1,33 @@
+.cabecalho{
+	text-align: center;
+}
+.buttonPesquisar{
+	text-align:  right;
+}
+td{
+	text-align: center;
+}
+input{ 
+	text-align: center; 
+	border: 0; 
+	width: 100%;
+	background: transparent;
+}
+.cnpj{
+	width: 200%;
+	margin: 0px 70px 3px -40px;
+}
+
+.dtanomes{
+	width: 110px;
+	margin: 0px 70px 3px -40px;
+
+}
+.remessa{
+	width: 50px;
+}
+
+.dataGeracao{
+  width: 200%;
+  margin: -40px;
+}
